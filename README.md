@@ -161,7 +161,7 @@ Our Website is fully responsive in all mobile, tablet and Desktop views.
 - [@Shashikant Patil](https://github.com/shashi530)
 
 ## Blog
-www.blogspot.com
+https://medium.com/@shashikantpatil8431/expedia-clone-11c553c484aa
 
 ## Deployment Link
 https://expedia-co-in-clone.netlify.app/
